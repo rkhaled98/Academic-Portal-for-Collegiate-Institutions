@@ -1,0 +1,113 @@
+/* CSS declarations go here */
+
+body {
+    font-family: sans-serif;
+    background-color: #315481;
+    background-image: linear-gradient(to bottom, #315481, #918e82 100%);
+    background-attachment: fixed;
+  
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  
+    padding: 0;
+    margin: 0;
+  
+    font-size: 14px;
+  }
+
+  #portal{
+    font-family: sans-serif;
+    background-color: #315481;
+    background-image: linear-gradient(to bottom, #315481, #918e82 100%);
+    background-attachment: fixed;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: 0 auto;
+    min-height: 100%;
+    background: white;
+  }
+
+header h5 {
+    border-radius: 15px;
+    padding: 35px;
+    font-family: fantasy;
+    font-size: 73pt;
+    color: maroon;
+    text-align: center;
+    background-color: #315481;
+    /* background-image: linear-gradient(to bottom, #8B0000, #800000, 100%); */
+    background-image: linear-gradient(to bottom, #2e4663, #797979 100%);
+}
+
+#coursesTakenHeader {
+}
+
+#wishlistHeader {
+}
+
+header h4 {
+    padding: 15px;
+    text-align: left;
+}
+
+div .col .s6 {
+    text-align: center;
+}
+
+blockquote {
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid #706eee; }
+
+test {
+    color: #00ff51;
+}
+
+#courseTable{
+    border-radius: 15px;
+    margin: 0%;
+    font-family: sans-serif;
+    background-color: #315481;
+    background-image: linear-gradient(to bottom, #2e4663, #797979 100%);
+}
+
+#wishlist{
+    border-radius: 15px;
+    margin: 0%;
+    font-family: sans-serif;
+    background-color: #315481;
+    background-image: linear-gradient(to bottom, #2e4663, #797979 100%);
+    /* background-image: linear-gradient(to bottom, #384d66, #797979 100%); */
+}
+
+.submit-prereq{
+    width: 80%;
+    float: left;
+}
+
+.submit-prereq #course-check {
+    width: 100%;
+    float: left;
+}
+
+#submitninenumber{
+    height: 45px;
+}
+
+
+#course-check-add-wishlist {
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+/* #courseElement{
+
+
+} */
