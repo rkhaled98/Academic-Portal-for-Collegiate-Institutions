@@ -17,6 +17,11 @@ Prepared by
 
 <div class="padding"></div>
 
+# X. Startup instructions
+- In the base of the project directory, run ```meteor npm install```
+- Navigating to imports/backend, run ```java -jar -Dwebdriver.gecko.driver=./geckodriver selenium-server-standalone-3.5.3.jar```
+- Back in the base of the project directory, run ```meteor```
+
 # 0. Details of consequence to the shortened project timeline
 
 ## 0.1 Statement of work done as of 15 May 2018
